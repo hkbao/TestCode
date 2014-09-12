@@ -1,0 +1,1 @@
+signUpModule = angular.module('SignUpModule',[]);
